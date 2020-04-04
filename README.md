@@ -27,7 +27,7 @@ There is a global timeout after 15 minutes. This will close any open ssh session
 touch /tmp/keepalive
 ```
 
-## Acknowledgments
+## Acknowledgments 
 
 * [tmate.io](https://tmate.io)
 * Max Schmitt's [action-tmate](https://github.com/mxschmitt/action-tmate)
